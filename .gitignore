@@ -4,6 +4,17 @@
 # Log file
 *.log
 
+# Compiled class file
+*.class
+
+# Compiled class file
+**/*.class
+**/.idea/*
+
+# Log file
+**/*.log
+
+
 # BlueJ files
 *.ctxt
 
