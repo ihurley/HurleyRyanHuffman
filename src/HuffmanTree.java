@@ -3,7 +3,7 @@
  * Lab Name: HuffmanTree
  * Lab Purpose: The goal of HuffmanTree is to create a program
  * Date: 11/27/18
- * Collaborators: None
+ * Collaborators: Timea Ryan
  * ON MY HONOR: IH
  */
 
@@ -94,9 +94,7 @@ public class HuffmanTree {
         String s = "";
         int cal = 0;
         double var = 0;
-    while (var<size){
-       var = Math.pow(2,cal)-1;
-    cal++;
+   cal = size/2;
     }
 
         var = Math.pow(2,cal)-1;
